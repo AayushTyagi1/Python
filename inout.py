@@ -1,0 +1,8 @@
+print("Python")
+print('Python')
+print("here we are doing 'pyhton'")
+x=input("input a number :")
+print(x)
+s=input("Enter name :")
+print(s)
+print("it's hot")
