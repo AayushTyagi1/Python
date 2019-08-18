@@ -1,0 +1,11 @@
+t=['a','b','c','d']
+print(t[0])
+print(t[-1])
+print(t)
+t.append('e')
+print(t)
+p=[1,2,3,4,5,6,7,8,9]
+print(p[:])
+print(p[3:])
+print(p[1::2])
+print(p[-5:-2])
