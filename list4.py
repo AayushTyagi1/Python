@@ -1,0 +1,13 @@
+l = ['hey', 'i', 'am', 'here']
+print(l)
+print(l.index("i"))
+l.insert(3,'now')
+l.insert(1,'human')
+print(l)
+l.pop()
+l.pop(1)
+print(l)
+l.reverse()
+print(l)
+l.remove('now')
+print(l)
